@@ -14,7 +14,7 @@ namespace ListGradebook
 
             Console.WriteLine("Enter your students (or ENTER to finish):");
 
-            // Get student names
+            Get student names
             do
             {
                 input = Console.ReadLine();
